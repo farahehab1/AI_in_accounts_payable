@@ -1,4 +1,4 @@
-# AI_in-_accounts-_payable
+# AI_in-_accounts_payable
 
 Any additional dependencies or requirements needed to run the code should be explained in the readme file.
 The prototype code , must be run in figma 
